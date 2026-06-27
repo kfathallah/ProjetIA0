@@ -1,0 +1,8 @@
+com/projetia0/model/AchatTest.class
+com/projetia0/model/EnergieTest.class
+com/projetia0/service/FacteursEmissionTest.class
+com/projetia0/model/TransportTest.class
+com/projetia0/CalculateurEmpreinteTest.class
+com/projetia0/model/EntrepriseTest.class
+com/projetia0/service/SqliteConnexionServiceTest.class
+com/projetia0/AppTest.class

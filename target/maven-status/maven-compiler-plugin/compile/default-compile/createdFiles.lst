@@ -1,0 +1,8 @@
+com/projetia0/model/Energie.class
+com/projetia0/model/Entreprise.class
+com/projetia0/model/Achat.class
+com/projetia0/service/SqliteConnexionService.class
+com/projetia0/model/PosteEmission.class
+com/projetia0/service/FacteursEmission.class
+com/projetia0/App.class
+com/projetia0/model/Transport.class

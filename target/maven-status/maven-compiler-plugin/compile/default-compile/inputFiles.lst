@@ -1,0 +1,8 @@
+/workspaces/ProjetIA0/src/main/java/com/projetia0/App.java
+/workspaces/ProjetIA0/src/main/java/com/projetia0/model/Achat.java
+/workspaces/ProjetIA0/src/main/java/com/projetia0/model/Energie.java
+/workspaces/ProjetIA0/src/main/java/com/projetia0/model/Entreprise.java
+/workspaces/ProjetIA0/src/main/java/com/projetia0/model/PosteEmission.java
+/workspaces/ProjetIA0/src/main/java/com/projetia0/model/Transport.java
+/workspaces/ProjetIA0/src/main/java/com/projetia0/service/FacteursEmission.java
+/workspaces/ProjetIA0/src/main/java/com/projetia0/service/SqliteConnexionService.java

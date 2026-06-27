@@ -1,0 +1,8 @@
+/workspaces/ProjetIA0/src/test/java/com/projetia0/AppTest.java
+/workspaces/ProjetIA0/src/test/java/com/projetia0/CalculateurEmpreinteTest.java
+/workspaces/ProjetIA0/src/test/java/com/projetia0/model/AchatTest.java
+/workspaces/ProjetIA0/src/test/java/com/projetia0/model/EnergieTest.java
+/workspaces/ProjetIA0/src/test/java/com/projetia0/model/EntrepriseTest.java
+/workspaces/ProjetIA0/src/test/java/com/projetia0/model/TransportTest.java
+/workspaces/ProjetIA0/src/test/java/com/projetia0/service/FacteursEmissionTest.java
+/workspaces/ProjetIA0/src/test/java/com/projetia0/service/SqliteConnexionServiceTest.java
